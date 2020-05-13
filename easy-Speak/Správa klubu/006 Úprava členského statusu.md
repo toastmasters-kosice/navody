@@ -49,8 +49,10 @@ Takto vyzerá obrazovka stretnutia, kde je zadefinovaný status Aktívny člen. 
 
 ## Súvisiace odkazy
 - [Ovládací panel klubu][ovladaci-panel-klubu]
+- [Obrazovka stretnutia][obrazovka-stretnutia]
 
 [logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [sprava-clenskych-statusov]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/%C4%8Clensk%C3%BD%20status.png "Správa členských statusov"
 [clensky-status-v-slovencine]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Role%20stretnutia%20v%20sloven%C4%8Dine.png "Členský status v slovenčine"
 [ovladaci-panel-klubu]: 001%20Ovl%C3%A1dac%C3%AD%20panel%20klubu.md "Ovládací panel klubu"
+[obrazovka-stretnutia]: ../Spr%C3%A1va%20stretnutia/001%20Obrazovka%20stretnutia.md "Obrazovka stretnutia"

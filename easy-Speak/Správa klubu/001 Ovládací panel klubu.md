@@ -38,6 +38,10 @@ V ovládacom paneli klubu sa nachádza mnoho nastavení. V krátkosti uvádzame 
 
 > Poznámka: Importovanie dát nebude v návodoch pokryté.
 
+## Súvisiace odkazy
+- [Obrazovka stretnutia][obrazovka-stretnutia]
+- [Úprava agendy stretnutia][uprava-agendy-stretnutia]
+
 [logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [odkaz-na-klubovy-panel]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Odkaz%20na%20ovl%C3%A1dac%C3%AD%20panel%20klubu.png "Odkaz na ovládací panel klubu"
 [tu-su-draci]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Tu%20s%C3%BA%20draci.png "Tu sú draci!"
@@ -46,3 +50,5 @@ V ovládacom paneli klubu sa nachádza mnoho nastavení. V krátkosti uvádzame 
 [uprava-lokalit]: 004%20%C3%9Aprava%20lokal%C3%ADt.md "Úprava lokalít"
 [uprava-roli-na-stretnuti]: 005%20%C3%9Aprava%20rol%C3%AD%20na%20stretnut%C3%AD.md "Úprava rolí na stretnutí"
 [uprava-clenskeho-statusu]: 006%20%C3%9Aprava%20%C4%8Dlensk%C3%A9ho%20statusu.md "Úprava členského statusu"
+[obrazovka-stretnutia]: ../Spr%C3%A1va%20stretnutia/001%20Obrazovka%20stretnutia.md "Obrazovka stretnutia"
+[uprava-agendy-stretnutia]: ../Spr%C3%A1va%20stretnutia/002%20%C3%9Aprava%20agendy%20stretnutia.md "Úprava agendy stretnutia"

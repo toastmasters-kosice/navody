@@ -77,7 +77,9 @@ Nasledujúci obrázok ilustruje, ako môže vaša agenda vyzerať, ak upravíte 
 ![Detail agendy stretnutia][agenda-detail]
 
 ## Súvisiace odkazy
+- [Obrazovka stretnutia][obrazovka-stretnutia]
 - [Ovládací panel klubu][ovladaci-panel-klubu]
+- [Úprava rolí na stretnutí][uprava-roli-na-stretnuti]
 
 [logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [hlavna-obrazovka-stretnutia]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Spr%C3%A1va%20stretnutia/Hlavn%C3%A1%20obrazovka%20stretnutia.png "Hlavná obrazovka stretnutia"
@@ -86,3 +88,5 @@ Nasledujúci obrázok ilustruje, ako môže vaša agenda vyzerať, ak upravíte 
 [edit-agenda-item]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Spr%C3%A1va%20stretnutia/%C3%9Aprava%20polo%C5%BEky%20agendy.png "Úprava položky agendy"
 [agenda-detail]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Spr%C3%A1va%20stretnutia/Detail%20agendy%20stretnutia.png "Detail agendy stretnutia"
 [ovladaci-panel-klubu]: ../Spr%C3%A1va%20klubu/001%20Ovl%C3%A1dac%C3%AD%20panel%20klubu.md "Ovládací panel klubu"
+[obrazovka-stretnutia]: 001%20Obrazovka%20stretnutia.md "Obrazovka stretnutia"
+[uprava-roli-na-stretnuti]: ../Spr%C3%A1va%20klubu/005%20%C3%9Aprava%20rol%C3%AD%20na%20stretnut%C3%AD.md "Úprava rolí na stretnutí"
