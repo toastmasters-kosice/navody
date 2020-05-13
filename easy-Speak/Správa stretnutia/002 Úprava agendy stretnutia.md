@@ -14,7 +14,7 @@ Na túto obrazovku sa dostanete z obrazovky stretnutia.
 
 V ľavom hornom rohu kliknite na tlačidlo `Edit agenda` (ikona ceruzky) a dostanete sa na obrazovku **Edit agenda** (upraviť agendu).
 
-![Úprava agendy][[edit-agenda]
+![Úprava agendy][edit-agenda]
 
 Obrazovka je rozdelená do niekoľkých sekcií, ktoré vidíte popísané na obrázku. V krátkosti si teraz niektoré prejdeme.
 
