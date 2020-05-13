@@ -4,7 +4,7 @@ Táto obrazovka slúži na správu a plánovanie celého stretnutia a je častok
 
 ![Obrazovka stretnutia][hlavna-obrazovka-stretnutia]
 
-Obrazovka je rozdelená do niekoľkých sekcií, ktoré vidíte popísané na obrázku. Pre členov sú podstatné časti, kde potvrďujú účasť (ľavý panel) a kde si vyberajú rolu (pravý panel).
+Obrazovka je rozdelená do niekoľkých sekcií, ktoré vidíte popísané na obrázku. Pre členov sú podstatné časti, kde potvrdzujú účasť (ľavý panel) a kde si vyberajú rolu (pravý panel).
 
 ## Potvrdenie účasti
 - Každý člen by sa mal snažiť o to, aby dal vedieť moderátorovi stretnutia, či na stretnutie príde
