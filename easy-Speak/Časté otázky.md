@@ -10,7 +10,7 @@ Tu budeme pridávať odpovede na bežné otázky. V odpovediach sa budeme odkazo
 S najväčšou pravdepodobnosťou potrebujete rolu pridať do agendy stretnutia a rola by sa mala objaviť na obrazovke.
 
 ## Ako dočasne udelím práva správcu easy-Speaku členovi inému klubu?
-Udeliť práva niekomu z iného klubu môže byť užitočné, aby ste urýchlili celý proces. Namiesto posielania screenshotov sa môže skúsený člen priamo sám pozrieť, čo treba nastaviť.
+Udeliť práva niekomu z iného klubu môže byť užitočné, aby ste urýchlili vyriešenie nejakého problému, ktorý v easy-Speaku máte. Namiesto posielania screenshotov sa môže skúsený člen priamo sám pozrieť, čo treba nastaviť.
 
 - Ak ešte člena z iného klubu nemáte pridaného do vášho klubu, pridajte ho a dajte mu status napríklad "Člen z iného klubu" (resp. čo používate pre hostí z klubov).
 - V easy-Speaku kliknite v hornom menu na `This Club (tento klub) | Club Officers  (Vedúci klubu)`
