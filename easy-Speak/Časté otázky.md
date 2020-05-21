@@ -9,6 +9,17 @@ Tu budeme pridávať odpovede na bežné otázky. V odpovediach sa budeme odkazo
 
 S najväčšou pravdepodobnosťou potrebujete rolu pridať do agendy stretnutia a rola by sa mala objaviť na obrazovke.
 
+## Ako dočasne udelím práva správcu easy-Speaku členovi inému klubu?
+Udeliť práva niekomu z iného klubu môže byť užitočné, aby ste urýchlili celý proces. Namiesto posielania screenshotov sa môže skúsený člen priamo sám pozrieť, čo treba nastaviť.
+
+- Ak ešte člena z iného klubu nemáte pridaného do vášho klubu, pridajte ho a dajte mu status napríklad "Člen z iného klubu" (resp. čo používate pre hostí z klubov).
+- V easy-Speaku kliknite v hornom menu na `This Club (tento klub) | Club Officers  (Vedúci klubu)`
+- V zozname priraďte členovi rolu IT Support, easy-Speak admin, resp. niečo podobné
+- Ak takéto roly v zozname vedúcich nevidíte, viete ich pridať v ovládacom paneli klubu (Club Central)
+- Oprávnenia, ktoré člen so statusom napr. IT Support získa, viete kontrolovať opäť v ovládacom paneli klubu na karte "Club Officers"
+
+Od tejto chvíle môže váš hosť kontrolovať a upravovať nastavenia vo vašom klube. Keď spraví, čo treba, nezabudnite mu túto rolu odobrať.
+
 [logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [obrazovka-stretnutia]: Spr%C3%A1va%20stretnutia/001%20Obrazovka%20stretnutia.md "Obrazovka stretnutia"
 [uprava-roli-na-stretnuti]: Spr%C3%A1va%20klubu/005%20%C3%9Aprava%20rol%C3%AD%20na%20stretnut%C3%AD.md "Úprava rolí na stretnutí"
