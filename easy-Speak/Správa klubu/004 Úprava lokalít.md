@@ -19,6 +19,6 @@ Následne môžete na tejto obrazovke:
 ## Súvisiace odkazy
 - [Ovládací panel klubu][ovladaci-panel-klubu]
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
-[nastavenie-lokalit]: https://github.com/toastmasters-kosice/graficke-podklady/blob/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Nastavenie%20lokal%C3%ADt%20klubu.png "Nastavenie lokalít klubu"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[nastavenie-lokalit]: https://github.com/toastmasters-kosice/graficke-podklady/blob/main/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Nastavenie%20lokal%C3%ADt%20klubu.png "Nastavenie lokalít klubu"
 [ovladaci-panel-klubu]: 001%20Ovl%C3%A1dac%C3%AD%20panel%20klubu.md "Ovládací panel klubu"

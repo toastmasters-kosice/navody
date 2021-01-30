@@ -42,9 +42,9 @@ Takto vyzerá obrazovka stretnutia po zmene názvu roly.
 - [Obrazovka stretnutia][obrazovka-stretnutia]
 - [Úprava agendy stretnutia][uprava-agendy-stretnutia]
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
-[sprava-roli-na-stretnuti]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Spr%C3%A1va%20rol%C3%AD%20na%20stretnut%C3%AD.png "Správa rolí na stretnutí"
-[roly-stretnutia-v-slovencine]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Role%20stretnutia%20v%20sloven%C4%8Dine.png "Roly stretnutia v slovenčine"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[sprava-roli-na-stretnuti]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Spr%C3%A1va%20rol%C3%AD%20na%20stretnut%C3%AD.png "Správa rolí na stretnutí"
+[roly-stretnutia-v-slovencine]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Role%20stretnutia%20v%20sloven%C4%8Dine.png "Roly stretnutia v slovenčine"
 [ovladaci-panel-klubu]: 001%20Ovl%C3%A1dac%C3%AD%20panel%20klubu.md "Ovládací panel klubu"
 [obrazovka-stretnutia]: ../Spr%C3%A1va%20stretnutia/001%20Obrazovka%20stretnutia.md "Obrazovka stretnutia"
 [uprava-agendy-stretnutia]: ../Spr%C3%A1va%20stretnutia/002%20%C3%9Aprava%20agendy%20stretnutia.md "Úprava agendy stretnutia"

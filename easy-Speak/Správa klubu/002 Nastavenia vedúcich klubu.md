@@ -41,7 +41,7 @@ Premenovanie roly vám umožní, aby zodpovedala tomu, na čo ste zvyknutí v kl
 ## Súvisiace odkazy
 - [Ovládací panel klubu][ovladaci-panel-klubu]
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
-[sprava-veducich-klubu]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Spr%C3%A1va%20ved%C3%BAcich%20klubu.png "Správa vedúcich klubu"
-[nastavenie-opravneni-veduceho]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Nastavenie%20opr%C3%A1vnen%C3%AD%20ved%C3%BAceho%20klubu.png "Nastavenie oprávnení vedúceho klubu"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[sprava-veducich-klubu]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Spr%C3%A1va%20ved%C3%BAcich%20klubu.png "Správa vedúcich klubu"
+[nastavenie-opravneni-veduceho]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Nastavenie%20opr%C3%A1vnen%C3%AD%20ved%C3%BAceho%20klubu.png "Nastavenie oprávnení vedúceho klubu"
 [ovladaci-panel-klubu]: 001%20Ovl%C3%A1dac%C3%AD%20panel%20klubu.md "Ovládací panel klubu"

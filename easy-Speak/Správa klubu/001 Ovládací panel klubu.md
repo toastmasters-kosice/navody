@@ -42,9 +42,9 @@ V ovládacom paneli klubu sa nachádza mnoho nastavení. V krátkosti uvádzame 
 - [Obrazovka stretnutia][obrazovka-stretnutia]
 - [Úprava agendy stretnutia][uprava-agendy-stretnutia]
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
-[odkaz-na-klubovy-panel]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Odkaz%20na%20ovl%C3%A1dac%C3%AD%20panel%20klubu.png "Odkaz na ovládací panel klubu"
-[tu-su-draci]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Tu%20s%C3%BA%20draci.png "Tu sú draci!"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[odkaz-na-klubovy-panel]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Odkaz%20na%20ovl%C3%A1dac%C3%AD%20panel%20klubu.png "Odkaz na ovládací panel klubu"
+[tu-su-draci]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Tu%20s%C3%BA%20draci.png "Tu sú draci!"
 [nastavenia-veducich-klubu]: 002%20Nastavenia%20ved%C3%BAcich%20klubu.md "Nastavenia vedúcich klubu"
 [nastavenia-klubu]: 003%20Nastavenia%20klubu.md "Nastavenia klubu"
 [uprava-lokalit]: 004%20%C3%9Aprava%20lokal%C3%ADt.md "Úprava lokalít"

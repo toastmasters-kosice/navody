@@ -24,7 +24,7 @@ Na tejto obrazovke sa nachádza niekoľko kariet s nastaveniami. Nebudeme ich ro
 ## Súvisiace odkazy
 - [Ovládací panel klubu][ovladaci-panel-klubu]
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
-[nastavenia-klubu]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Glob%C3%A1lne%20nastavenia%20klubu.png "Nastavenia klubu"
-[uprava-nastaveni-klubu]: https://github.com/toastmasters-kosice/graficke-podklady/blob/master/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/%C3%9Aprava%20nastaven%C3%AD%20klubu.png "Úprava nastavení klubu"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[nastavenia-klubu]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/Glob%C3%A1lne%20nastavenia%20klubu.png "Nastavenia klubu"
+[uprava-nastaveni-klubu]: https://github.com/toastmasters-kosice/graficke-podklady/blob/main/Sn%C3%ADmky%20obrazovky/easy-Speak/Ovl%C3%A1dac%C3%AD%20panel%20klubu/%C3%9Aprava%20nastaven%C3%AD%20klubu.png "Úprava nastavení klubu"
 [ovladaci-panel-klubu]: 001%20Ovl%C3%A1dac%C3%AD%20panel%20klubu.md "Ovládací panel klubu"

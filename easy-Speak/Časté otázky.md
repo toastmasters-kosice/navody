@@ -20,7 +20,7 @@ Udeliť práva niekomu z iného klubu môže byť užitočné, aby ste urýchlil
 
 Od tejto chvíle môže váš hosť kontrolovať a upravovať nastavenia vo vašom klube. Keď spraví, čo treba, nezabudnite mu túto rolu odobrať.
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [obrazovka-stretnutia]: Spr%C3%A1va%20stretnutia/001%20Obrazovka%20stretnutia.md "Obrazovka stretnutia"
 [uprava-roli-na-stretnuti]: Spr%C3%A1va%20klubu/005%20%C3%9Aprava%20rol%C3%AD%20na%20stretnut%C3%AD.md "Úprava rolí na stretnutí"
 [uprava-agendy-stretnutia]: Spr%C3%A1va%20stretnutia/002%20%C3%9Aprava%20agendy%20stretnutia.md "Úprava agendy stretnutia"
